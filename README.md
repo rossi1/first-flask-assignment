@@ -8,7 +8,7 @@ We've defined a route to `'/'` named `home`. It's currently empty. You should re
 
 ![image](https://cloud.githubusercontent.com/assets/872296/23755570/8ea2b620-04bf-11e7-80f5-ae60d9708de6.png)
 
-#### Requirement 1
+#### Requirement 2
 
 Create a new route for `/python` that returns HTML code with a title containing the message `Python Programming Language`, as shown below:
 
